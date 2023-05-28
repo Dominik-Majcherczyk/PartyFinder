@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Diablo party finder app, which allow players to find teammates for playing diablo IV together.
+
+v1.0 - simply creating rooms, and allow other users to apply for current created room.
 
 ## Getting Started
 
